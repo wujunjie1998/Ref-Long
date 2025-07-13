@@ -49,7 +49,7 @@ This script calculates the Exact Accuracy (Ex Acc) and F1 scores for different m
 
 
 ## Citation
-
+<!--
 ```bibtex
 @article{wu2025understanding,
   title={Understanding LLMs' Fluid Intelligence Deficiency: An Analysis of the ARC Task},
@@ -58,6 +58,6 @@ This script calculates the Exact Accuracy (Ex Acc) and F1 scores for different m
   year={2025}
 }
 ```
-
+-->
 
 
